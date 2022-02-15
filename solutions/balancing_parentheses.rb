@@ -97,3 +97,6 @@ end
 # since the openings count will track any opening parentheses for which there were no
 # matching closing ones.
 ##################################################################################
+
+
+# string.chars() is a String class method in Ruby which is used to return an array of characters in str.
